@@ -139,7 +139,7 @@ core_philosophy: "Turning complex data & model architectures into autonomous, pr
       <td align="center" width="50%">
         <!-- Contribution Streak Card -->
         <a href="https://github.com/Durgesh83kumar">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durgesh83kumar&theme=tokyonight&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak" width="95%" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durgesh83kumar&timezone=Asia%2FKolkata&theme=tokyonight&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak" width="95%" />
         </a>
       </td>
       <td align="center" width="50%">
