@@ -1,15 +1,8 @@
 <div align="center">
 
-  <!-- Profile Photo -->
+  <!-- Interactive Hero Banner with Photo Background & Role Overview -->
   <a href="https://github.com/Durgesh83kumar">
-    <img src="https://raw.githubusercontent.com/Durgesh83kumar/Durgesh83kumar/main/assets/profile.jpg" width="150" height="150" alt="Durgesh Kumar" style="border-radius: 50%; border: 3px solid #00ffcc; box-shadow: 0 0 15px rgba(0, 255, 204, 0.4); object-fit: cover;" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Typing SVG Dynamic Header -->
-  <a href="https://github.com/Durgesh83kumar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=%3E+Durgesh+Kumar+%7C+AI+Engineer;%3E+Specializing+in+Generative+AI+%26+Multi-Agent+Systems;%3E+Fine-Tuning+LLMs+%7C+RAG+Architectures+%7C+PyTorch;%3E+Building+Autonomous+Intelligent+Pipelines" alt="Typing SVG" />
+    <img src="assets/hero-banner.svg" alt="Durgesh Kumar - AI Engineer" width="100%" />
   </a>
 
   <br/>
