@@ -2,7 +2,7 @@
 
   <!-- Interactive Hero Banner with Photo Background & Role Overview -->
   <a href="https://github.com/Durgesh83kumar">
-    <img src="assets/hero-banner.svg" alt="Durgesh Kumar - AI Engineer" width="100%" />
+    <img src="https://raw.githubusercontent.com/Durgesh83kumar/Durgesh83kumar/main/assets/hero-banner.svg?v=2" alt="Durgesh Kumar - AI Engineer" width="100%" />
   </a>
 
   <br/>
